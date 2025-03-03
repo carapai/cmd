@@ -1,0 +1,440 @@
+[2025-02-28 10:10:43.742 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-02-28 10:11:03.587 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 10:11:55.269 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-02-28 10:12:09.723 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 10:12:17.112 AM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 2, deleted: 0, ignored: 0, total: 2 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      ENROLLMENT: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      TRACKED_ENTITY: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 2, deleted: 0, ignored: 0, total: 2 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-02-28 10:12:17.114 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-02-28 10:12:31.165 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 12:50:28.682 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-02-28 12:50:35.519 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 12:51:03.054 PM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      ENROLLMENT: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      TRACKED_ENTITY: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-02-28 12:51:03.056 PM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-02-28 12:51:22.522 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 12:51:31.628 PM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      ENROLLMENT: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      TRACKED_ENTITY: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-02-28 12:51:31.629 PM] [32minfo[39m: 	[32mFetching destination events page 3[39m
+[2025-02-28 12:51:37.292 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 12:52:01.082 PM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      ENROLLMENT: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      TRACKED_ENTITY: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-02-28 12:52:01.082 PM] [32minfo[39m: 	[32mFetching destination events page 4[39m
+[2025-02-28 12:52:11.367 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 12:52:37.106 PM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      ENROLLMENT: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      TRACKED_ENTITY: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-02-28 12:52:37.107 PM] [32minfo[39m: 	[32mFetching destination events page 5[39m
+[2025-02-28 12:52:55.422 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 12:53:44.900 PM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      ENROLLMENT: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      TRACKED_ENTITY: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-02-28 12:53:44.900 PM] [32minfo[39m: 	[32mFetching destination events page 6[39m
+[2025-02-28 12:53:53.068 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 12:54:01.486 PM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      ENROLLMENT: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      TRACKED_ENTITY: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-02-28 12:54:01.486 PM] [32minfo[39m: 	[32mFetching destination events page 7[39m
+[2025-02-28 12:54:07.609 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 12:54:50.007 PM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      ENROLLMENT: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      TRACKED_ENTITY: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-02-28 12:54:50.007 PM] [32minfo[39m: 	[32mFetching destination events page 8[39m
+[2025-02-28 12:55:06.708 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-02-28 12:55:19.745 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 12:56:58.378 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-02-28 12:59:56.914 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-02-28 01:00:04.995 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 01:01:15.761 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-02-28 01:01:43.767 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 01:02:18.784 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-02-28 01:02:26.564 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-02-28 01:03:01.523 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-02-28 01:03:08.875 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:19:43.449 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:19:51.287 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:22:01.086 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:22:08.572 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:22:13.344 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 09:22:20.151 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:22:25.653 AM] [32minfo[39m: 	[32mFetching destination events page 3[39m
+[2025-03-03 09:22:32.695 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:22:38.538 AM] [32minfo[39m: 	[32mFetching destination events page 4[39m
+[2025-03-03 09:22:45.632 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:22:50.270 AM] [32minfo[39m: 	[32mFetching destination events page 5[39m
+[2025-03-03 09:23:06.979 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:23:13.819 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:23:24.661 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 09:25:47.336 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:25:55.126 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:25:59.779 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 09:26:06.737 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:26:20.829 AM] [32minfo[39m: 	[32mFetching destination events page 3[39m
+[2025-03-03 09:27:42.779 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:27:54.712 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 09:28:27.400 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:28:30.641 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 09:29:03.071 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:29:03.992 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:29:06.109 AM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 1, deleted: 0, ignored: 0, total: 1 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      TRACKED_ENTITY: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      ENROLLMENT: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 1, deleted: 0, ignored: 0, total: 1 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-03-03 09:29:06.109 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 09:29:07.454 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:30:32.096 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:30:33.041 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 09:32:49.718 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:32:50.618 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 09:33:46.413 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:33:48.306 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:33:49.391 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 09:33:50.841 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:35:47.211 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:35:48.157 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:35:50.277 AM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 1, deleted: 0, ignored: 0, total: 1 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      TRACKED_ENTITY: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      ENROLLMENT: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 1, deleted: 0, ignored: 0, total: 1 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-03-03 09:35:50.277 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 09:36:29.747 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:36:30.678 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:36:32.975 AM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 1, deleted: 0, ignored: 0, total: 1 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      TRACKED_ENTITY: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      ENROLLMENT: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 1, deleted: 0, ignored: 0, total: 1 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-03-03 09:36:32.975 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 09:53:13.818 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:53:15.257 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:53:17.296 AM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 1, deleted: 0, ignored: 0, total: 1 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      TRACKED_ENTITY: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      ENROLLMENT: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 1, deleted: 0, ignored: 0, total: 1 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-03-03 09:53:17.296 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 09:55:41.582 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:55:52.088 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:59:25.609 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 09:59:47.334 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 09:59:55.688 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 10:39:53.977 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 10:40:03.016 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:40:11.313 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 10:40:18.466 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:40:26.557 AM] [32minfo[39m: 	[32mFetching destination events page 3[39m
+[2025-03-03 10:40:38.507 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:40:45.566 AM] [32minfo[39m: 	[32mFetching destination events page 4[39m
+[2025-03-03 10:40:52.116 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:40:58.622 AM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 49, deleted: 0, ignored: 0, total: 49 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      TRACKED_ENTITY: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      ENROLLMENT: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 49, deleted: 0, ignored: 0, total: 49 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-03-03 10:40:58.622 AM] [32minfo[39m: 	[32mFetching destination events page 5[39m
+[2025-03-03 10:41:06.761 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 10:41:13.623 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:41:27.091 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 10:41:48.141 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 10:41:55.337 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:42:03.820 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 10:42:10.254 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:42:23.275 AM] [32minfo[39m: 	[32mFetching destination events page 3[39m
+[2025-03-03 10:42:29.341 AM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 10:42:36.052 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:42:41.863 AM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 10:43:35.086 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:43:44.524 AM] [32minfo[39m: 	[32mFetching destination events page 3[39m
+[2025-03-03 10:43:51.115 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:43:58.005 AM] [32minfo[39m: 	[32mFetching destination events page 4[39m
+[2025-03-03 10:44:04.574 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:44:11.648 AM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      TRACKED_ENTITY: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      ENROLLMENT: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-03-03 10:44:11.648 AM] [32minfo[39m: 	[32mFetching destination events page 5[39m
+[2025-03-03 10:44:18.675 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:44:25.586 AM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      TRACKED_ENTITY: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      ENROLLMENT: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-03-03 10:44:25.586 AM] [32minfo[39m: 	[32mFetching destination events page 6[39m
+[2025-03-03 10:44:32.405 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:44:39.472 AM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      TRACKED_ENTITY: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      ENROLLMENT: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-03-03 10:44:39.472 AM] [32minfo[39m: 	[32mFetching destination events page 7[39m
+[2025-03-03 10:44:46.393 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:44:52.879 AM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      TRACKED_ENTITY: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      ENROLLMENT: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-03-03 10:44:52.880 AM] [32minfo[39m: 	[32mFetching destination events page 8[39m
+[2025-03-03 10:44:59.626 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:45:11.203 AM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      TRACKED_ENTITY: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      ENROLLMENT: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 50, deleted: 0, ignored: 0, total: 50 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-03-03 10:45:11.203 AM] [32minfo[39m: 	[32mFetching destination events page 9[39m
+[2025-03-03 10:45:17.869 AM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 10:45:23.736 AM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 0, updated: 41, deleted: 0, ignored: 0, total: 41 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      TRACKED_ENTITY: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      ENROLLMENT: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 0, updated: 41, deleted: 0, ignored: 0, total: 41 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-03-03 10:45:23.737 AM] [32minfo[39m: 	[32mFetching destination events page 10[39m
+[2025-03-03 01:04:40.678 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 01:05:01.457 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 01:05:50.809 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 01:06:06.050 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 01:06:21.044 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 01:09:24.578 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 01:09:31.108 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 01:09:32.039 PM] [32minfo[39m: 	[32mFound events[39m
+[2025-03-03 01:09:32.040 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 01:09:33.093 PM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 01:11:45.753 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 01:11:46.671 PM] [32minfo[39m: 	[32mFound events[39m
+[2025-03-03 01:11:46.671 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 01:11:47.839 PM] [32minfo[39m: 	[32mNo data found[39m
+[2025-03-03 01:11:47.840 PM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 02:21:22.253 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 02:21:23.240 PM] [32minfo[39m: 	[32mFound events[39m
+[2025-03-03 02:21:23.241 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 02:21:25.488 PM] [32minfo[39m: 	[32mFetching destination events page 2[39m
+[2025-03-03 02:26:57.820 PM] [32minfo[39m: 	[32mFetching destination events page 1[39m
+[2025-03-03 02:26:58.844 PM] [32minfo[39m: 	[32mFound events[39m
+[2025-03-03 02:26:58.845 PM] [32minfo[39m: 	[32mQuerying instances[39m
+[2025-03-03 02:27:01.146 PM] [32minfo[39m: 	[32m{[39m
+[32m  status: 'OK',[39m
+[32m  validationReport: { errorReports: [], warningReports: [] },[39m
+[32m  stats: { created: 1, updated: 0, deleted: 0, ignored: 0, total: 1 },[39m
+[32m  bundleReport: {[39m
+[32m    status: 'OK',[39m
+[32m    typeReportMap: {[39m
+[32m      TRACKED_ENTITY: [Object],[39m
+[32m      RELATIONSHIP: [Object],[39m
+[32m      EVENT: [Object],[39m
+[32m      ENROLLMENT: [Object][39m
+[32m    },[39m
+[32m    stats: { created: 1, updated: 0, deleted: 0, ignored: 0, total: 1 }[39m
+[32m  }[39m
+[32m}[39m
+[2025-03-03 02:27:01.147 PM] [32minfo[39m: 	[32mFetching destination events page 2[39m

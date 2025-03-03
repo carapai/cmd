@@ -1,0 +1,16 @@
+*.env
+*.xlsx
+/node_modules
+/data
+/export
+*.sql
+*.csv
+events.json
+example.json
+final.json
+found.json
+household-enrollments.json
+members.json
+households.json
+ous.json
+users.json
