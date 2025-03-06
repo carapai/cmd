@@ -444,8 +444,7 @@ class EMissUploaded {
         return previousValues;
     }
 
-    public async synchronise(orgUnit: string) {
-        let page = 1;
+    public async synchronise(orgUnit: string, page = 1) {
         let total = 1;
         while (total > 0) {
             logger.info(`Fetching destination events page ${page}`);
@@ -556,7 +555,7 @@ class EMissUploaded {
 }
 
 // Usage example
-async function main() {
+async function main(page: number = 1) {
     const uploader = new EMissUploaded({
         baseUrl: process.env.DHIS2_URL || "",
         username: process.env.DHIS2_USERNAME || "",
@@ -568,11 +567,10 @@ async function main() {
     });
 
     try {
-        await uploader.synchronise("wQF07WYTSmo");
+        await uploader.synchronise("wQF07WYTSmo", page);
     } catch (error) {
         console.log(JSON.stringify(error.response.data));
     }
 }
-
 // Run the script
 main().then(() => console.log("Done"));
