@@ -573,4 +573,4 @@ async function main(page: number = 1) {
     }
 }
 // Run the script
-main(4304).then(() => console.log("Done"));
+main(5918).then(() => console.log("Done"));
